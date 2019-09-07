@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
                     Dynamsoft Camera SDK provides Objec-C/Swift APIs that enable you to easily capture images and documents from iPhone Video Class (UVC) compatible webcams. It supports document edge detection from a video stream and processing features including perspective correction, noise removal, contrast, brightness, and color filter (convert to a colored/grey document).
                    DESC
 
-  s.homepage     = "https://github.com/dynamsoft-dcs/ios-dynamsoft-camera-sdk"
+  s.homepage     = "https://github.com/copyblogger-sean/ios-dynamsoft-camera-sdk"
 
   s.license= { :type => "MIT", :file => "LICENSE" }
 
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios
 
-  s.source       = { :git => "https://github.com/dynamsoft-dcs/ios-dynamsoft-camera-sdk.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/copyblogger-sean/ios-dynamsoft-camera-sdk.git", :tag => "#{s.version}" }
 
   #s.source_files  = "DynamsoftCameraSDK-Bridging-Header.h",""
 
